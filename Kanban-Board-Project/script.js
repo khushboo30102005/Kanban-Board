@@ -30,7 +30,7 @@ function addTask(title, desc, column) {
   });
   return div;
 }
-console.log('hii from script.js');
+console.log('hii from frok');
 function updateCount() {
   columns.forEach((col) => {
     const tasks = col.querySelectorAll('.task');
